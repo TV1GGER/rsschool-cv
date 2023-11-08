@@ -132,3 +132,7 @@ resultsTableOutsideClickWrapper.addEventListener('click', () => {
 - [X] 2007-2012 "Polotsk State University", majoring in "Modeling and computer design of radio-electronic means", qualification: engineer in radio electronics.
 - [X] 2003-2007 "Novopolotsk State Polytechnic College", specializing in "Automation of technological processes and production", qualified: electrical engineer, profession: instrumentation and automation fitter.
 - [X] 2002-2002 "Institute for advanced training and retraining of managers and specialists of the educational institution Polotsk State University", specialty: "PC operator-user".
+
+***
+
+##### *My level of English (as measured by the EPAM Training Center tests)*: B2
