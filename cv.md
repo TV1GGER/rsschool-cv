@@ -14,3 +14,8 @@
 ##### *GitHub: [tv1gger](https://github.com/TV1GGER)*
 
 ##### *linkedin: [Dzianis Perahudau](https://www.linkedin.com/in/dzianis-perahudau-46a9b6277)*
+
+***
+
+### My priorities:
+ Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
