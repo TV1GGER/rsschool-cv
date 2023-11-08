@@ -38,3 +38,9 @@
   - activity
   - independence
   - logical thinking
+  
+***
+
+### Skills: 
+
+ Git, GitHub, VS Code, CSS3, SCSS, HTML5, JavaScript, Chrome DevTools, Figma, MS Excel/Word, Adobe Photoshop, Jira, Bug Reporting.
