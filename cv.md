@@ -92,3 +92,18 @@ resultsTableOutsideClickWrapper.addEventListener('click', () => {
 });
 
 ```
+
+***
+
+### Experience:
+
+
+- [X] [Link to deployed version of 'random-game'](https://tv1gger.github.io/stage023/random-game/).
+
+- [X] "Momentum" task. Skills used: JavaScript, Git, GitHub, CSS3, HTML5, Figma, Chrome DevTools, VS Code. [Link to task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md). [Link to deployed version](https://tv1gger-momentum.netlify.app/).
+
+- [X] [Link to deployed version of 'audio-player'](https://tv1gger.github.io/stage023/audio-player/).
+
+- [X] [Link to deployed version of 'css Meme Slider'](https://tv1gger.github.io/cssMemeSlider/cssMemeSlider/index.html).
+
+- [X] [Link to deployed version of 'css Bayan'](https://tv1gger.github.io/cssBayan/cssBayan/).
