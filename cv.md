@@ -24,3 +24,17 @@
 
 ### My goals:
  Develop in the IT field in the areas of Frontend Dev and QA-Manual (hereinafter QA-Automation). 
+
+***
+
+### Personal qualities:
+
+  - readiness for constant self
+  - development
+  - sociability
+  - ability to learn quickly
+  - attentiveness
+  - purposefulness
+  - activity
+  - independence
+  - logical thinking
