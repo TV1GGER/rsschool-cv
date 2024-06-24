@@ -103,3 +103,20 @@ resultsTableOutsideClickWrapper.addEventListener('click', () => {
 - [cssBayan](https://tv1gger.github.io/cssBayan/cssBayan/)
 - [Virtual keyboard](https://tv1gger.github.io/virtual-keyboard/)
 - [CssMemeSlider](https://tv1gger.github.io/cssMemeSlider/cssMemeSlider/index.html)
+
+***
+
+### Education/Courses:
+
+- November 01, 2023 completed the "JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)" RS School course ([my certificate](https://app.rs.school/certificate/o7q0rj39))
+- March 04, 2023 completed the "JS/FE Pre-School 2022Q4" RS School course ([my certificate](https://app.rs.school/certificate/hcrttvje))
+- December, 2022 completed the: "JavaScript: Perfect for Beginners", "HTML: Perfect for Beginners", "CSS: Free Online Learning for Beginners" (from https://code-basics.com) 
+- Self-education through YouTube video tutorials
+- August 10, 2022 went to the course "QA Start" at https://edu.academiait.ru
+- 08/26/2022, participated in the webinar "Beginner's Guide to Careers in Tech", EPAM
+- 11/24/2022 successfully completed the course "Software Testing Introduction(RUS)", Svyatoslav Kulikov(EPAM)
+- 2021, passed simulators "Fundamentals of HTML, JS, CSS.", htmlacademy.ru 
+- 11/26/2021 completed the "Fundamentals of Software Testing" course at https://practicum.yandex.ru/. 
+- 2007-2012 "Polotsk State University", majoring in "Modeling and computer design of radio-electronic means", qualification: engineer in radio electronics.
+- 2003-2007 "Novopolotsk State Polytechnic College", specializing in "Automation of technological processes and production", qualified: electrical engineer, profession: instrumentation and automation fitter.
+- 2002-2002 "Institute for advanced training and retraining of managers and specialists of the educational institution Polotsk State University", specialty: "PC operator-user".
