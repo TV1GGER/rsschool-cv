@@ -89,3 +89,17 @@ resultsTableOutsideClickWrapper.addEventListener('click', () => {
 });
 
 ```
+
+***
+
+### Examples of my applications:
+
+- [Audio player](https://tv1gger.github.io/stage023/audio-player/index.html)
+- ["Hedgehog in the fog" game](https://tv1gger.github.io/stage023/random-game/index.html)
+- [Momentum](https://tv1gger-momentum.netlify.app/)
+- [Library](https://tv1gger.github.io/stage023/library/index.html)
+- ["Hangman" game](https://rolling-scopes-school.github.io/tv1gger-JSFE2023Q4/hangman/)
+- [Image galery](https://tv1gger.github.io/stage023/image-galery/index.html)
+- [cssBayan](https://tv1gger.github.io/cssBayan/cssBayan/)
+- [Virtual keyboard](https://tv1gger.github.io/virtual-keyboard/)
+- [CssMemeSlider](https://tv1gger.github.io/cssMemeSlider/cssMemeSlider/index.html)
