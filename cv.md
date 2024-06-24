@@ -43,3 +43,49 @@
 ### Skills: 
 
  Git, GitHub, VS Code, CSS3, SCSS, HTML5, JavaScript, WebPack, React, Node.JS, Chrome DevTools, Figma, MS Excel/Word, Adobe Photoshop, Jira, Bug Reporting.
+ 
+***
+
+### Code example:
+
+```javascript
+
+// Results table
+
+const resultsTable = document.querySelector('.results-table');
+
+function loadDaraFromStorage() {
+  let storageItemCount = 1;
+  for(let b = 1; b < 11; b += 1) {
+    if ((localStorage.getItem(b)) && (storageItemCount < 11)) {
+      const listItem = document.createElement('div');
+      listItem.classList.add('list-item');
+      listItem.id = storageItemCount;
+      listItem.innerHTML = storageItemCount+'.'+ ' ' + localStorage.getItem(storageItemCount);
+      resultsTable.appendChild(listItem);
+      storageItemCount++;
+    }
+  }
+};
+
+const headerListItem = document.querySelector('.header-list-item');
+const resultsTableWrapper = document.querySelector('.results-table-wrapper');
+const resultsTableOutsideClickWrapper = document.querySelector('.results-table-outside-click-wrapper');
+
+headerListItem.addEventListener('click', () => {
+  resultsTableWrapper.classList.add('results-table-wrapper-open');
+  resultsTableOutsideClickWrapper.classList.add('results-table-outside-click-wrapper-active');
+  loadDaraFromStorage();
+});
+
+resultsTableOutsideClickWrapper.addEventListener('click', () => {
+  resultsTableWrapper.classList.remove('results-table-wrapper-open');
+  resultsTableOutsideClickWrapper.classList.remove('results-table-outside-click-wrapper-active');
+  for (let m = 0; m < 11; m += 1){
+    if(document.getElementById(m)){
+      resultsTable.removeChild(document.getElementById(m));
+    }
+  }
+});
+
+```
