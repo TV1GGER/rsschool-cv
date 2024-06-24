@@ -37,3 +37,9 @@
   - purposefulness
   - independence
   - logical thinking
+    
+***
+
+### Skills: 
+
+ Git, GitHub, VS Code, CSS3, SCSS, HTML5, JavaScript, WebPack, React, Node.JS, Chrome DevTools, Figma, MS Excel/Word, Adobe Photoshop, Jira, Bug Reporting.
