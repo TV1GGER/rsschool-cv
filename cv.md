@@ -20,3 +20,8 @@
 
 ### My priorities:
  Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
+ 
+***
+
+### My goals:
+ Develop in the IT field in the areas of Frontend Dev and QA-Manual (hereinafter QA-Automation). 
