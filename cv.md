@@ -15,3 +15,8 @@
 ##### *linkedin: [Dzianis Perahudau](https://www.linkedin.com/in/dzianis-perahudau-46a9b6277)*
 
 ##### *Discord: Dzianis Perahudau(@tv1gger)*
+
+***
+
+### My priorities:
+ Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
