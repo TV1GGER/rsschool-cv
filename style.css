@@ -26,7 +26,21 @@ body {
   width: 100%;
   background-color: rgb(4, 4, 61);
   color: rgb(255, 255, 255);
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+.header-container__tag-field {
   text-align: center;
-  font-size: 5vmin;
+  font-size: 2.7vmin;
   font-weight: 600;
+  padding-top: 1.5vmin;
+  padding-bottom: 1.5vmin;
+  cursor: default;
+  opacity: 0.4;
 }
