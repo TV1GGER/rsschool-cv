@@ -62,3 +62,20 @@ const checkHeaderOpacity = setInterval(function check() {
 }, 3500);
 
 ///
+
+// Menu list-item select
+
+const navListItem = document.querySelectorAll('.nav-list__item');
+
+  window.onload = function() {
+  navListItem[0].classList.add('nav-list__item-selected');
+};
+
+navListItem.forEach(el => el.addEventListener('click', (e) => {
+  navListItem.forEach(itm => {
+    itm.classList.remove('nav-list__item-selected');
+  });
+  el.classList.add('nav-list__item-selected');
+}));
+
+///
