@@ -1,4 +1,5 @@
 import tagDescriptionList from './js/tag-description-list.js'
+import {mainInfo} from './js/main-info.js'
 
 
 // Get random text content from tag-description-list.js
@@ -65,10 +66,13 @@ const checkHeaderOpacity = setInterval(function check() {
 
 // Menu list-item select
 
+const basicContentText= document.querySelector('.basic-content__text');
 const navListItem = document.querySelectorAll('.nav-list__item');
-
+const basicContentHead = document.querySelector('.basic-content-head')
+basicContentText.innerHTML = mainInfo[0]['about'];
   window.onload = function() {
   navListItem[0].classList.add('nav-list__item-selected');
+  basicContentHead.textContent = 'About';
 };
 
 navListItem.forEach(el => el.addEventListener('click', (e) => {
@@ -76,6 +80,8 @@ navListItem.forEach(el => el.addEventListener('click', (e) => {
     itm.classList.remove('nav-list__item-selected');
   });
   el.classList.add('nav-list__item-selected');
+  basicContentText.innerHTML = mainInfo[0][el.id];
+  basicContentHead.textContent = el.id[0].toUpperCase() + el.id.slice(1);
 }));
 
 ///
