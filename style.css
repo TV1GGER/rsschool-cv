@@ -60,7 +60,7 @@ body {
   color: rgb(255, 255, 255);
   text-align: center;
   font-weight: 600;
-  margin-top: 34vmin;
+  margin-top: 20vmin;
 }
 
 .portrait-container {
@@ -68,7 +68,7 @@ body {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   background-color: rgb(109, 109, 161);
   border-right: 0.5vmin dashed rgb(4, 4, 61);
@@ -78,7 +78,7 @@ body {
 
 .portrait-container__photo {
   position: absolute;
-  top: 13.95vmin;
+  top: 0.95vmin;
   border-radius: 50%;
   overflow: hidden;
   width: 45vmin;
@@ -100,7 +100,7 @@ body {
 }
 
 h1 {
-  margin-top: 22.5vmin;
+  margin-top: 27.5vmin;
   font-size: 6vmin;
   transition: 3s;
   animation: nameMove 3s infinite linear;
@@ -320,6 +320,10 @@ h3 {
   width: 50%;
   height: 100%;
   background-color: rgb(109, 109, 161);
+}
+
+.basic-content-head {
+  margin-top: 2vmin;
 }
 
 .aside {
