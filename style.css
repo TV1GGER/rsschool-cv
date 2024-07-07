@@ -83,7 +83,7 @@ body {
 
 .portrait-container__photo {
   position: absolute;
-  top: -22.95vmin;
+  top: -19.95vmin;
   border-radius: 50%;
   overflow: hidden;
   width: 45vmin;
