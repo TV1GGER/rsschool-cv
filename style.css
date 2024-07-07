@@ -41,8 +41,8 @@ body {
   height: 8vmin;
   position: absolute;
   top: 8vmin;
-  right: 40vmin;
-  text-align: center;
+  right: 1vmin;
+  text-align: right;
   font-size: 2.7vmin;
   font-weight: 600;
   padding-top: 1.5vmin;
