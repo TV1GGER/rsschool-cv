@@ -47,7 +47,7 @@ body {
 }
 
 .photo-content {
-  height: 58vmin;
+  height: 70vmin;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -323,19 +323,18 @@ h3 {
 }
 
 .nav__list {
-  height: 58vmin;
+  height: 70vmin;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   list-style: none;
   gap: 0vmin;
   margin: 0;
 }
 
 .nav-list__item {
-  height: 7.25vmin;
+  height: 100%;
   width: 5vmin;
   display: flex;
   justify-content: center;
@@ -381,4 +380,30 @@ h3 {
 
 .basic-content__text a:hover {
   color: rgba(0, 0, 0, 0.3);
+}
+
+.contacts-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style: none;
+  gap: 1vmin;
+  text-align: left;
+  font-size: 2vmin;
+  font-weight: 600;
+}
+
+.phone-link, .e-mail-link, .telegram-link, .git-hub-link, .linked-in-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.6vmin;
+  letter-spacing: 0.06vmin;
+  list-style: none;
+}
+
+.contacts-list a:hover svg {
+  stroke: rgba(0, 0, 0, 0.3);
+  transform: rotate(15deg);
+  transition: .4s;
 }
