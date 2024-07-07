@@ -20,6 +20,10 @@ html {
 body {
   width: 100%;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: rgb(4, 4, 61);
 }
 
@@ -64,6 +68,7 @@ body {
 }
 
 .portrait-container {
+  position: relative;
   width: 61vmin;
   height: 100%;
   display: flex;
@@ -78,7 +83,7 @@ body {
 
 .portrait-container__photo {
   position: absolute;
-  top: 0.95vmin;
+  top: -22.95vmin;
   border-radius: 50%;
   overflow: hidden;
   width: 45vmin;
