@@ -55,6 +55,11 @@ body {
   opacity: 0.4;
 }
 
+main {
+  padding-left: 5vmin;
+  padding-right: 5vmin;
+}
+
 .photo-content {
   height: 70vmin;
   display: flex;
@@ -69,7 +74,7 @@ body {
 
 .portrait-container {
   position: relative;
-  width: 61vmin;
+  width: 65vmin;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -322,7 +327,6 @@ h3 {
 }
 
 .basic-content {
-  width: 50%;
   height: 100%;
   background-color: rgb(109, 109, 161);
 }
@@ -377,6 +381,7 @@ h3 {
 }
 
 .basic-content__text {
+  width: 90vmin;
   height: 50vmin;
   text-align: left;
   padding-top: 5vmin;
