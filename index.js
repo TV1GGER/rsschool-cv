@@ -72,21 +72,21 @@ const navListItem = document.querySelectorAll('.nav-list__item');
 const basicContentHead = document.querySelector('.basic-content-head')
 basicContentText.innerHTML = mainInfo[0]['about'];
   window.onload = function() {
-  let head = document.createElement("h2");
+  navListItem[0].classList.add('nav-list__item-selected');
+};
+
+let head = document.createElement("h2");
   basicConten.prepend(head);
   head.className = 'basic-content-head';
   head.textContent = 'About';
-  navListItem[0].classList.add('nav-list__item-selected');
-};
 
 navListItem.forEach(el => el.addEventListener('click', (e) => {
   navListItem.forEach(itm => {
     itm.classList.remove('nav-list__item-selected');
   });
-  const basicContentHeadFunct = document.querySelector('.basic-content-head')
   el.classList.add('nav-list__item-selected');
   basicContentText.innerHTML = mainInfo[0][el.id];
-  basicContentHeadFunct.textContent = el.id[0].toUpperCase() + el.id.slice(1);
+  head.textContent = el.id[0].toUpperCase() + el.id.slice(1);
 }));
 
 ///
